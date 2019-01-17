@@ -1,0 +1,19 @@
+{
+  "name": "@tubepress/browserslist-config",
+  "version": "1.0.0",
+  "description": "browserslist-config for TubePress",
+  "author": "Eric Hough <eric@tubepress.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubepress/browserslist-config.git"
+  },
+  "keywords": [
+    "browserslist",
+    "browserslist-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/tubepress/browserslist-config/issues"
+  },
+  "homepage": "https://github.com/tubepress/browserslist-config"
+}
